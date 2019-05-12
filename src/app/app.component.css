@@ -1,0 +1,30 @@
+body {
+  margin-bottom: 120px;
+}
+.container {
+  position: relative;
+  border: 2px solid green;
+  overflow: hidden;
+}
+nav {
+  position: absolute;
+  left: 0;
+  width: 200px;
+  color: pink;
+  border: 2px solid pink;
+}
+section {
+  margin-left: 200px;
+  padding: 10px;
+  border: 2px solid yellow;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: purple;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+}

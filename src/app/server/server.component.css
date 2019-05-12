@@ -1,0 +1,19 @@
+nav {
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  color: pink;
+  background-color: gold;
+  line-height: 30px;
+}
+.column {
+  display: inline-block;
+  vertical-align: top;
+  width: 75%;
+  background-color: plum;
+  color: #fff;
+}
+section {
+  padding: 10px;
+  border: 2px solid rosybrown;
+}
